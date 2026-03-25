@@ -5,7 +5,6 @@ import {
   viewport,
   init as initSDK,
   mockTelegramEnv,
-  type ThemeParams,
   retrieveLaunchParams,
   emitEvent,
   miniApp,
